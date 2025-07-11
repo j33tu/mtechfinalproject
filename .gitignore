@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+*.pot
+*.mo
+*.env
+.env*
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+  
+ 
+
+# Other
+uploads/ 
+
+# PPTX
+*.pptx
+
+# Misc
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# C++
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Backup
+*~
+*.bak
+
+# YAML
+*.yaml
+*.yml
+
+# CCPD-master generated files
+CCPD-master/rpnet/__pycache__/
+CCPD-master/rpnet/demo/__pycache__/
+CCPD-master/split/*.txt
+
+# Indian-NPD generated files
+Indian-NPD/Annotations/Annotations/*.xml
+Indian-NPD/Indian_Number_Plates/Sample_Images/*.jpg
+Indian-NPD/number_plate_annos_ocr/number_plate_annos_ocr/
+Indian-NPD/number_plate_images_ocr/number_plate_images_ocr/
